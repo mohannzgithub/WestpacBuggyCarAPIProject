@@ -28,6 +28,8 @@ In Visual Studio ,
 Navigate to View -> Test Explorer
 right click and run feature file
 
+![image](https://user-images.githubusercontent.com/88992582/130424674-8925fb02-dbec-4868-bdc7-c5f731d3ddc5.png)
+
 
 
 
